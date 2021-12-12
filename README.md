@@ -1,0 +1,2 @@
+# spotify
+no ads
