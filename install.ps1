@@ -3,13 +3,14 @@ $PSDefaultParameterValues['Stop-Process:ErrorAction'] = 'SilentlyContinue'
 
 write-host @'
 ***************** 
-TWITCH CHANNEL: ROEV4444
+About Author:
+Twitch Channel: roev4444
 ***************** 
 '@
 
 write-host @'
 ***************** 
-Author: @ROEV
+Author: @roev4444: Discord: Roev4444, Discord Server: https://discord.gg/zkt6GUyhRQ
 ***************** 
 '@
 
