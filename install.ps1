@@ -248,8 +248,7 @@ Write-Host 'Done.'
 write-host @'
 ***************** 
 @mrpond message:
-#Thailand #ThaiProtest #ThailandProtest #freeYOUTH
-Please retweet these hashtag, help me stop dictator government!
+Owner: Roev4444 Discord: https://discord.gg/zkt6GUyhRQ
 ***************** 
 '@
 
